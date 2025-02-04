@@ -2,10 +2,10 @@
   <img src="assets/icon128.png" alt="DeepSeek Icon" width="128">
 </p>
 
-<h1 align="center">🚀 DeepSeek – AI-Powered Chat Assistant for Smarter Conversations</h1>
+<h1 align="center">DeepSeek</h1>
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih">
+  <a href="https://chromewebstore.google.com/detail/deepseek/gohgeedemmaohocbaccllpkabadoogpl">
     <img src="https://img.shields.io/badge/Install%20Now-DeepSeek-blue?style=for-the-badge&logo=googlechrome" alt="Install DeepSeek">
   </a>
 </p>
@@ -31,7 +31,7 @@ DeepSeek brings the **latest advancements in AI-driven conversations** to your b
 
 ## 🔧 Installation  
 
-1️⃣ **Download the Extension** – Click the **Install Now** button above or visit the [Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih).  
+1️⃣ **Download the Extension** – Click the **Install Now** button above or visit the [Chrome Web Store](https://chromewebstore.google.com/detail/deepseek/gohgeedemmaohocbaccllpkabadoogpl).  
 2️⃣ **Add to Your Browser** – Follow the simple installation steps.  
 3️⃣ **Start Using DeepSeek** – Click the extension icon to begin leveraging AI in real time.  
 
@@ -111,9 +111,8 @@ DeepSeek is more than just an AI chatbot – it’s **a complete AI-powered prod
 
 ## 🔗 Links & Resources  
 
-- [Official Website](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih)  
-- [GitHub Repository](https://github.com/egmalt/deepseek-ai)  
-- [Privacy Policy](https://yourwebsite.com/privacy)  
+- [Official Website](https://chromewebstore.google.com/detail/deepseek/gohgeedemmaohocbaccllpkabadoogpl)  
+- [GitHub Repository](https://github.com/egmalt/deepseek-chat)
 
 ---
 
@@ -122,7 +121,7 @@ DeepSeek is more than just an AI chatbot – it’s **a complete AI-powered prod
 DeepSeek **simplifies conversations, enhances decision-making, and automates tasks** with cutting-edge AI technology. Whether you're a **developer, researcher, or writer**, DeepSeek is designed to improve efficiency and productivity.
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih">
+  <a href="https://chromewebstore.google.com/detail/deepseek/gohgeedemmaohocbaccllpkabadoogpl">
     <img src="https://img.shields.io/badge/Install%20Now-DeepSeek-blue?style=for-the-badge&logo=googlechrome" alt="Install DeepSeek">
   </a>
 </p>
