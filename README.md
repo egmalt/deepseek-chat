@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  **DeepSeek** is an advanced AI assistant designed to redefine the way you interact online.  
+  DeepSeek is an advanced AI assistant designed to redefine the way you interact online.  
   Whether you need quick responses, seamless automation, or an intelligent assistant for work and research, DeepSeek delivers.  
-  **Stay ahead of the curve with AI-powered insights, efficiency, and productivity.**
+  Stay ahead of the curve with AI-powered insights, efficiency, and productivity.*
 </p>
 
 ---
